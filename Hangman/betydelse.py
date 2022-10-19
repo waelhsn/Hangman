@@ -1,0 +1,13 @@
+betydelse = ["Uppvispad grädde",
+             "Ett fyrsträngat instrument med ursprung i Portugal",
+             "En person som spelar sporten innebandy",
+             "En mast man hissar upp en flagga på",
+             "Verktyg för att hugga ved",
+             "Fiske till havs",
+             "Ett transparent optiskt element som bryter ljuset vid plana ytor",
+             "Geografiskt område med lantlig bebyggelse",
+             "En personlig egenskap där man vill dela med sig av det man har",
+             "Att man ofta, eller för stunden har tur",
+             "Den upphöjda yta som passagerare väntar på eller stiger på/av ett spårfordon",
+             "Att arbeta tillsamans mot ett gemensamt mål",
+             "Att någon är väluppfostrad, skötsam, eller lovande"]

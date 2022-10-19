@@ -1,0 +1,13 @@
+ordlista = ["Vispgrädde",
+            "Ukulele",
+            "Innebandyspelare",
+            "Flaggstång",
+            "Yxa",
+            "Havsfiske",
+            "Prisma",
+            "Landsbygd",
+            "Generositet",
+            "Lyckosam",
+            "Perrong",
+            "Samarbeta",
+            "Välartad"]
